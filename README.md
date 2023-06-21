@@ -1,16 +1,31 @@
-### Hi there 👋
+<section>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff52c8&height=120&section=header"/>
+</section>
 
-<!--
-**NandaCorreaa/NandaCorreaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff52c8&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Fernanda+Corrêa+❤️;Tenho+20+anos.;👩‍💻+Estou+cursando+Desenvolvimento+Web+Front-End+👩‍💻;Sejam+Bem+Vindos!+😊)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<section style="display: inline-block">
+  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandacorreaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacorreaa&layout=compact&langs_count=7&theme=radical"/>
+  <figure style="display: inline-block;  ">
+        <img
+          "
+          height="300px"
+          src="https://cdn.discordapp.com/attachments/1118705853097328773/1118706345047236660/gifgithub.gif"
+          alt="Gif"
+        />
+
+</section>
+
+ 
+
+##
+<div >
+  <a style="display: inline-block" href="https://www.linkedin.com/in/fernanda-corr%C3%AAa-477926275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff52c8&height=120&section=footer"/>
