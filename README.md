@@ -25,7 +25,7 @@
 
 ##
 <div >
-  <a style="display: inline-block" href="https://www.linkedin.com/in/fernanda-corr%C3%AAa-477926275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a target="_blank" style="display: inline-block" href="https://www.linkedin.com/in/fernanda-corr%C3%AAa-477926275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff52c8&height=120&section=footer"/>
