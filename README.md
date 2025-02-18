@@ -6,7 +6,7 @@
  
 ##
 
-Sou apaixonada por programação, e apesar de minha formação inicial em pedagogia, foi no início de 2023 que minha verdadeira paixão pela tecnologia despertou. Desde então, venho me dedicando a aprender e crescer na área de Desenvolvimento Front-End. 💖
+Sou apaixonada por programação, e apesar de minha formação ser de professora, foi no início de 2023 que minha verdadeira paixão pela tecnologia despertou. Desde então, venho me dedicando a aprender e crescer na área de Desenvolvimento Front-End. 💖
 
 Após me formar pelo Vai na Web em Desenvolvimento Front-End, iniciei minha trajetória no ensino digital. Em setembro de 2023, comecei como facilitadora técnica do curso de Desenvolvimento Front-End e, depois de um ano de muito aprendizado, tive a honra de me tornar Instrutora Técnica. 🚀
 
