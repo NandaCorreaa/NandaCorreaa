@@ -16,7 +16,7 @@ Minha habilidade em comunicação sempre foi uma das minhas maiores forças, e t
 
 <div style="display: flex; justify-content: center;">
   <a target="_blank" href="https://fernanda-correa-portifolio.vercel.app/" style="text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/Meu_Portifolio-d1009b?style=for-the-badge&logo=windows-xp&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Meu_Portfolio-d1009b?style=for-the-badge&logo=windows-xp&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/fernandacorrêa" style="text-decoration: none;">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
