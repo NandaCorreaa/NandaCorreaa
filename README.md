@@ -79,6 +79,12 @@ Minha habilidade em comunicação sempre foi uma das minhas maiores forças, e t
 
 ##
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NandaCorreaa/NandaCorreaa/output/snake.svg" />
+</p>
+
+
+
 <!-- <div align="center">
       <img height="180px" src="https://github-readme-stats.vercel.app/api?username=NandaCorreaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
       <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandaCorreaa&layout=compact&langs_count=7&theme=radical"/>
