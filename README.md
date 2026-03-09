@@ -43,6 +43,9 @@ Minha habilidade em comunicação sempre foi uma das minhas maiores forças, e t
    <img align="center" alt="Logo Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
    <img align="center" alt="API REST" src="https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
    <img align="center" alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+   <img align="center" alt="Logo Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+   <img align="center" alt="SQLITE" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 </div>
 
@@ -52,9 +55,8 @@ Minha habilidade em comunicação sempre foi uma das minhas maiores forças, e t
 
 <div>
  <img align="center" alt="Logo Python" src="https://img.shields.io/badge/python-006ac2?style=for-the-badge&logo=python&logoColor=ffdd54" />  
- <img align="center" alt="Logo Python" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
- <img align="center" alt="Logo Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
- <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+ <img align="center" alt="Logo MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
+
 
 </div>
 
